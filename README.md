@@ -5,7 +5,7 @@ This project uses Power BI and Excel to analyze sales data.
 ## Files
 
 - `Sales_Data.xlsx`: Contains the raw sales data used in the analysis.
-- `Power_BI_Dashboard.pbix`: The Power BI file containing the dashboard and visualizations.
+- `Sales_Data.pbix`: The Power BI file containing the dashboard and visualizations.
 
 ## Insights
 
